@@ -1,6 +1,7 @@
 # Lestify - Platform Pemutar Musik Berbasis Web
 
 Selamat datang di Lestify! 🎶
+Link Website : https://lestify.netlify.app/
 
 Lestify adalah platform pemutar musik berbasis website yang memungkinkan pengguna untuk mengunggah dan memutar musik secara online. Terinspirasi oleh sosok penyanyi diva dangdut Indonesia, Lesti, Lestify menyediakan platform yang menjadi kiblat bagi anak muda pecinta musik dangdut untuk menikmati lagu-lagu favorit mereka dengan mudah.
 
