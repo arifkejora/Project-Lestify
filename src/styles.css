@@ -1,0 +1,76 @@
+/* styles.css */
+
+body {
+  background-color: #121212; /* Warna latar belakang gelap */
+  font-family: 'Arial', sans-serif;
+  color: #fff; /* Warna teks putih */
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center; /* Menengahkan konten dalam .header */
+  margin-bottom: 40px;
+}
+
+.header h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+  color: #1db954; /* Warna hijau Spotify */
+}
+
+.song-list {
+  margin-top: 20px;
+}
+
+.song-list h2 {
+  font-size: 24px;
+  color: #1db954; /* Warna hijau Spotify */
+  margin-bottom: 10px;
+}
+
+.song-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.song-list li {
+  margin-bottom: 20px;
+  background-color: #333; /* Warna latar belakang */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.song-list strong {
+  font-weight: bold;
+  color: #fff; /* Warna teks putih */
+}
+
+.song-list button {
+  background-color: #1db954; /* Warna hijau Spotify */
+  border: none;
+  color: #fff; /* Warna teks putih */
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-right: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.song-list button:hover {
+  background-color: #1ed760; /* Warna hijau Spotify yang sedikit lebih terang */
+}
+
+.song-list button:active {
+  background-color: #1aa34a; /* Warna hijau Spotify yang sedikit lebih gelap saat tombol ditekan */
+}
